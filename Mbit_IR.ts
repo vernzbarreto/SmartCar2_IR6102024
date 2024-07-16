@@ -6,7 +6,7 @@ modified by chengengyue
 /**
  * IR remote
  */
-//% icon="\uf1eb" weight=11 color=50  block="Yahboom_IR_V1.5"
+//% icon="\uf1eb" weight=11 color=50  block="IR_V1.5"
 namespace Mbit_IR {
 
     /**
